@@ -23,7 +23,6 @@ const client = new ApolloClient({ //setting client to run authLink middleware
   cache: new InMemoryCache(),
 });
 
-
 function App() {
   return (
     <ApolloProvider client={client}>
