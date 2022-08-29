@@ -6,7 +6,7 @@ import SearchBooks from './pages/SearchBooks';
 import SavedBooks from './pages/SavedBooks';
 import Navbar from './components/Navbar';
 
-const httpLink = createHttpLink({ uri: '/graphql' }) // Constructing graphql api endpoint
+const httpLink = createHttpLink({ uri: '/graphql', }) // Constructing graphql api endpoint
 
 const authLink = setContext ((_, { headers })=> { //middleware to attach JWT upon authorization
   const token = localStorage.getItem('id_token'); //grabs authentication token from local storage
