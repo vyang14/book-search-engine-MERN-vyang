@@ -1,4 +1,4 @@
-# Book Search Engine - GraphQL
+# Book Search Engine - MERN
 
 By Vincent Yang
 
@@ -15,7 +15,7 @@ By Vincent Yang
 
 ## Licensing 
 ![License](https://img.shields.io/badge/license-GNU_GPL-yellow.svg)
-> PWA-just-another-text-editor is protected and licensed under the [GNU GPL](https://www.gnu.org/licenses/licenses.en.html#GPL) license.
+> Book Search Engine - MERN is protected and licensed under the [GNU GPL](https://www.gnu.org/licenses/licenses.en.html#GPL) license.
 
 ## Description
 
@@ -38,10 +38,10 @@ None
 > None
 
 ## Preview
-Preview 1: App Launched in Browser
+Preview 1: App Launched in Browser:
 ![Preview 1: App launched in browser](./Assets/preview1.png)
 
-Preview 2: Book Search
+Preview 2: Book Search after user Sign Up / Login:
 
 ![Preview 2: PWA installed](./Assets/preview2.png)
 
