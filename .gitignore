@@ -21,7 +21,5 @@ yarn-debug.log*
 yarn-error.log*
 
 # markdown
-/Assets
-README.md
 
 /server/node_modules
